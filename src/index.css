@@ -1,0 +1,32 @@
+.pro{
+  border: 5px solid red;
+}
+.more{
+  border: 4px dotted green;
+  text-align: center;
+  color: rgba(16, 16, 197, 0.89);
+  background-color: rgb(218, 207, 207);
+  box-shadow: rgb(121, 76, 22);
+  border-radius: 5px;
+}
+.ma-pro{
+  background-color: bisque;
+display: grid;
+grid-template-columns: 300px 300px 300px 300px;
+gap: 4px;
+text-align: center;
+  
+}
+.img{
+  width: 200px;
+  height: 200px;
+  border: 4px solid rgb(72, 72, 161);
+}
+.btn{
+  background-color: greenyellow;
+  padding: 20px 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 4px 5px 4px 5px gray;
+
+}
