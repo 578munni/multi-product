@@ -30,3 +30,14 @@ text-align: center;
   box-shadow: 4px 5px 4px 5px gray;
 
 }
+.nav{
+  background-color: rgb(93, 207, 93);
+  padding: 10px 20px;
+  /* text-align: center; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+
+}
+.nav .link{
+  text-decoration: none;
+}
